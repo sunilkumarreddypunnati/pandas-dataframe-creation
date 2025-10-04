@@ -11,12 +11,12 @@ Perfect for beginners who want to understand how DataFrames are constructed and 
 
 | 🧪 Task File | 📄 Description                                                                               | 📷 Output Screenshot |
 | ------------ | -------------------------------------------------------------------------------------------- | -------------------- |
-| [task1.py](pandas%20dataframe%20creation/task1.py) | 📋 **Dict of Lists (Basic)** – Create DataFrame with column-oriented structure, custom index | ![Task 1](Task%201.png) |
-| [task2.py](pandas_dataframe_creation/task2.py) | 🔍 **Mixed Data Types** – Float, string, boolean with `.dtypes` inspection                   | ![Task 2](pandas_dataframe_creation/Task%202.png) |
-| [task3.py](pandas_dataframe_creation/task3.py) | 📑 **Dict of Dicts** – Row-oriented data with inner keys as index                            | ![Task 3](pandas_dataframe_creation/Task%203.png) |
-| [task4.py](pandas_dataframe_creation/task4.py) | ❓ **Missing Values Handling** – Dict of dicts with unequal keys → NaN filling                | ![Task 4](pandas_dataframe_creation/Task%204.png) |
-| [task5.py](pandas_dataframe_creation/task5.py) | 🔄 **Custom Index & Column Order** – Rearranging columns and labels                          | ![Task 5](pandas_dataframe_creation/Task%205.png) |
-| [task6.py](pandas_dataframe_creation/task6.py) | ⚖️ **Comparison** – Dict of Lists vs Dict of Dicts (structure & transpose)                   | ![Task 6](pandas_dataframe_creation/Task%206.png) |
+| [task1.py](pandas%20dataframe%20creation/task%201.py) | 📋 **Dict of Lists (Basic)** – Create DataFrame with column-oriented structure, custom index | ![Task 1](Task%201.png) |
+| [task2.py](pandas%20dataframe%20creation/task%202.py) | 🔍 **Mixed Data Types** – Float, string, boolean with `.dtypes` inspection                   | ![Task 2](Task%202.png) |
+| [task3.py](pandas%20dataframe%20creation/task%203.py) | 📑 **Dict of Dicts** – Row-oriented data with inner keys as index                            | ![Task 3](Task%203.png) |
+| [task4.py](pandas%20dataframe%20creation/task%204.py) | ❓ **Missing Values Handling** – Dict of dicts with unequal keys → NaN filling                | ![Task 4](Task%204.png) |
+| [task5.py](pandas%20dataframe%20creation/task%205.py) | 🔄 **Custom Index & Column Order** – Rearranging columns and labels                          | ![Task 5](Task%205.png) |
+| [task6.py](pandas%20dataframe%20creation/task%206.py) | ⚖️ **Comparison** – Dict of Lists vs Dict of Dicts (structure & transpose)                   | ![Task 6](Task%206.png) |
 
 
 ## ✅ What I Practiced
