@@ -43,7 +43,7 @@ Perfect for beginners who want to understand how DataFrames are constructed and 
 
 ## 🔗 Connect With Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/))  
+🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
 💻 [GitHub](https://github.com/sunilkumarreddypunnati) 
 
 ---
